@@ -24,7 +24,7 @@ AZ900 Practice does not use third-party analytics, advertising, or tracking serv
 ## Contact
 If you have questions or concerns about this Privacy Policy, you may contact:
 
-**Email:** support@massiveworx.com
+**Email:** softwaresupport@massiveworx.com
 
 ## Disclaimer
 AZ900 Practice is an independent educational app and is not affiliated with, endorsed by, or sponsored by Microsoft.  
