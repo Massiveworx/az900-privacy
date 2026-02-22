@@ -1,2 +1,2 @@
-# az900-privacy
+# AZ900-privacy
 Privacy policy for AZ900 Practice app
